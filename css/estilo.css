@@ -1,0 +1,66 @@
+*
+{
+    margin: 0px;
+}
+.padre
+{
+    width: 800px;
+    height: 400px;
+    background-color: aqua;
+    padding: 50px;
+    margin: 50px;
+}
+.hijo1
+{
+    background-color: coral;
+    width: 700px;
+    height: 300px;
+    margin: 20px;
+    padding: 20px;
+}
+.hijo2
+{
+    background-color: darkmagenta;
+    width: 400px;
+    height: 100px;
+    padding: 20px;
+}
+.nieto1
+{
+    width: 600px;
+    background-color: yellow;
+    height: 250px;
+    margin: 10px;
+    padding: 20px;
+}
+.bisnieto1
+{
+    background-color: black;
+    width: 500px;
+    height: 200px;
+    padding: 20px;
+}
+.trinieto1
+{ 
+    background-color: aquamarine;
+    width: 400px;
+    height: 150px;
+    padding: 20px;
+
+}
+.tetra1
+{ 
+    background-color: chartreuse;
+    width:300px ;
+    height: 100px;
+    padding: 20px;
+
+}
+.penta1
+{  
+    background-color: deeppink;
+    width: 200px;
+    height: 50px;
+    padding: 20px;
+
+}
